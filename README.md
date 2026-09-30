@@ -1,0 +1,9 @@
+# subtitle-shift-lab
+
+Geser timing subtitle srt +/- detik.
+
+Dibuat buat keperluan pribadi, kode bisa dipakai bebas.
+
+## Cara pakai
+
+Lihat instruksi di file utama. Belajar sambil bikin, jadi dokumentasinya di-update sambil jalan.
